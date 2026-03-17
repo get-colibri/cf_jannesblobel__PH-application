@@ -2,4 +2,4 @@
 
 The purpose is simple and I can distinguish it in two main part 
 
-&#8203;
+1. I w
