@@ -1,3 +1,3 @@
-# Intent of that repo
+# Purpose of this repository
 
 &#8203;
