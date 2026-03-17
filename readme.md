@@ -1,3 +1,3 @@
 # Purpose of this repository
 
-The prupose i
+The prupose is simpl
