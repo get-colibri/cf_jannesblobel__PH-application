@@ -1,3 +1,3 @@
 # Purpose of this repository
 
-Well that realtiv
+The prupose i
