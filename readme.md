@@ -1,3 +1,3 @@
 # Purpose of this repository
 
-The prupose is simple and I can 
+The purpose is simple and I can distinguish
